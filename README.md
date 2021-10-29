@@ -1,6 +1,7 @@
 # TextRecognitionDataGenerator
 ## Introduction
-生成繁體中文文字圖像以供訓練。
+生成繁體中文文字圖像以供訓練。請參考[the official documentation](https://textrecognitiondatagenerator.readthedocs.io/en/latest/index.html).
+
 ## Build Process
 * 首先先下載pakage，就可以開始操作。
 
@@ -37,7 +38,8 @@
 
 如選擇image (3)，將會從images/ folder隨機選擇圖片當作背景。
 
-因為我們想做的是字詞顏色和背景顏色為互補色，所以在選擇plain white(1)有做修改，
+因我們想生成的是字詞顏色和背景顏色為互補色，在選擇plain white(1)時有做修改。
+
 在computer_text_generator.py的第81和82行和background_generator.py的第29~31行。
 
 ![photo_2021-10-29_09-55-49](https://user-images.githubusercontent.com/62441311/139360533-96237a0f-c0c8-4897-8994-430f79edb51c.jpg)
