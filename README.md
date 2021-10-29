@@ -42,7 +42,7 @@
 
 如選擇image (3)，將會從images/ folder隨機選擇圖片當作背景。
 
-因我們想生成的是字詞顏色和背景顏色為互補色，在選擇plain white(1)時有做修改。
+因我們想生成的是字詞顏色和背景顏色為互補色，在選擇plain white (1)時有做修改。
 
 ![photo_2021-10-29_09-55-49](https://user-images.githubusercontent.com/62441311/139360533-96237a0f-c0c8-4897-8994-430f79edb51c.jpg)
 ![photo_2021-10-29_09-55-51](https://user-images.githubusercontent.com/62441311/139360537-42555d6c-7dca-4a1e-8895-5145a41ffe0f.jpg)
