@@ -35,7 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/62441311/139359986-752d81e8-92d2-46f1-b098-b10c26ff8b96.png)
 
-如選擇image (3)，將會從images/ folder隨機選擇圖片當作背景。
+如選擇image (3)，將會從images/ folder隨機選擇圖片當作背景。\\
 因為我們想做的是字詞顏色和背景顏色為互補色，所以在選擇plain white(1)有做修改，
 在computer_text_generator.py的第81和82行和background_generator.py的第29~31行。
 
