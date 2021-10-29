@@ -19,3 +19,8 @@
 
 
 ![photo_2021-10-29_09-36-42](https://user-images.githubusercontent.com/62441311/139358891-81b9a986-00e5-45c0-a79d-78b2e656a006.jpg)
+
+也可以設定text skewing，只需要增加-k和-rk
+
+![photo_2021-10-29_09-41-36](https://user-images.githubusercontent.com/62441311/139359291-d5e62179-94e1-49dc-b9c7-21aa4f8a790a.jpg)
+
