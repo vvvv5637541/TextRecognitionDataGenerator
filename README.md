@@ -47,8 +47,11 @@
 ```python run.py -c 300 -l cn -l cn -i snt.txt --output_dir test --margins 0,0,0,0 --fit -b 1```
 
 -i為欲生成哪些字詞的檔案，在snt.txt檔中存放欲生成的字詞。
+
 --output_dir為欲輸出的資料夾。
+
 --margins設定為0,0,0,0代表邊框和字的距離為0。
+
 -b選擇1時，文字顏色和背景顏色為互補色。
 
 ![photo_2021-10-29_09-55-49](https://user-images.githubusercontent.com/62441311/139360533-96237a0f-c0c8-4897-8994-430f79edb51c.jpg)
