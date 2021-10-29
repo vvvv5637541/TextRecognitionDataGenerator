@@ -20,16 +20,16 @@
 
 ![photo_2021-10-29_09-36-42](https://user-images.githubusercontent.com/62441311/139358891-81b9a986-00e5-45c0-a79d-78b2e656a006.jpg)
 
-也可以設定其他Argumentation
+也可增加其他Argumentation。
 
-###Text skewing
+### Text skewing
 只需要增加參數-k(設定角度)和-rk(0~設定角度)
 
 ```python run.py -c 300 -l cn -w 5 -k 5 -rk)```
 
 ![photo_2021-10-29_09-41-36](https://user-images.githubusercontent.com/62441311/139359291-d5e62179-94e1-49dc-b9c7-21aa4f8a790a.jpg)
 
-###Background
+### Background
 
 加入參數-b可挑選背景，gaussian noise (0)， plain white (1)， quasicrystal (2) 或 image (3)，
 
