@@ -54,5 +54,11 @@
 ![photo_2021-10-29_09-55-49](https://user-images.githubusercontent.com/62441311/139360533-96237a0f-c0c8-4897-8994-430f79edb51c.jpg)
 ![photo_2021-10-29_09-55-51](https://user-images.githubusercontent.com/62441311/139360537-42555d6c-7dca-4a1e-8895-5145a41ffe0f.jpg)
 
+```python run.py -c 300 -l cn -l cn -i snt.txt --output_dir test --margins 0,0,0,0 --fit -b 1` -k 5 -rk```
+
+![人人蔘藥行_242](https://user-images.githubusercontent.com/62441311/139363851-eadd02d7-4265-4c6e-83a4-fcc9e6608255.jpg)
+![人資服務有限公司_104](https://user-images.githubusercontent.com/62441311/139363859-2df77fd9-f7bb-4c34-be3d-e9719da4fa10.jpg)
+
+
 ## Reference
 [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
