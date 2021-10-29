@@ -32,6 +32,7 @@
 
 ### Text blurring
 增加`-bl` and `-rbl`參數來達到高斯模糊的效果。
+
 ![image](https://user-images.githubusercontent.com/62441311/139361673-7c1b2987-eda1-406e-8bc4-6624943765aa.png)
 
 ### Background
